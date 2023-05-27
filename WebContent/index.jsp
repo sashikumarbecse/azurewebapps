@@ -7,10 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="/products" method="post">
+<form action="/azurewebapp/products" method="post">
   <!-- form fields -->
-  <input type="text" name="username">
-  <input type="password" name="password">
+  <input type="text" name="username" value="dummy">
+  <input type="password" name="password" value="dummy">
   <!-- submit button -->
   <input type="submit" value="Submit">
 </form>
