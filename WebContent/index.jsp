@@ -12,7 +12,7 @@
   <input type="text" name="username" value="dummy">
   <input type="password" name="password" value="dummy">
   <!-- submit button -->
-  <input type="submit" value="Submit">
+  <input type="submit" value="Submit1">
 </form>
 </body>
 </html>
